@@ -12,7 +12,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(features = "src\\test\\java\\com\\feature\\adactin.feature" , 
 				 glue = "com.stepdefinition.adactin",
 				 monochrome = true, dryRun = false, strict = true,
-				 tags = ("@adact1, @adact2, @adact3, @adact4, @adact5"),
+				 tags = ("@adact1, @adact2, @adact3, @adact4, @adact5, @adact6, @adact7"),
 				 
 				 plugin = {"html:Report/adactin", 
 						  "pretty",
@@ -27,7 +27,8 @@ public class Test_Runner_Adactin
 	@BeforeClass
 	public static void set_Up() 
 	{
-		driver = Base_Class_adactin.getdriver("firefox");	
+
+		driver = Base_Class_adactin.getdriver("firefox");
 	}
 		
 	@AfterClass

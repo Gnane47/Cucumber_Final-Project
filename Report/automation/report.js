@@ -143,14 +143,14 @@ formatter.match({
   "location": "Step_Definition_Automation.user_Launches_Application_Using_URL()"
 });
 formatter.result({
-  "duration": 8918750200,
+  "duration": 7016625700,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Sign_In_Button_In_Home_Page()"
 });
 formatter.result({
-  "duration": 2229987300,
+  "duration": 3884420500,
   "status": "passed"
 });
 formatter.match({
@@ -163,7 +163,7 @@ formatter.match({
   "location": "Step_Definition_Automation.user_Enters_The_Username(String)"
 });
 formatter.result({
-  "duration": 135607300,
+  "duration": 162946700,
   "status": "passed"
 });
 formatter.match({
@@ -176,14 +176,14 @@ formatter.match({
   "location": "Step_Definition_Automation.user_Enters_The_Password(String)"
 });
 formatter.result({
-  "duration": 125617500,
+  "duration": 124649600,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Login_Button_And_Then_It_Navigates_To_Dresses_Section_Page()"
 });
 formatter.result({
-  "duration": 1607640800,
+  "duration": 1908931000,
   "status": "passed"
 });
 formatter.scenario({
@@ -235,14 +235,14 @@ formatter.match({
   "location": "Step_Definition_Automation.user_Launches_Application_Using_URL()"
 });
 formatter.result({
-  "duration": 1477663500,
+  "duration": 3704373000,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Sign_In_Button_In_Home_Page()"
 });
 formatter.result({
-  "duration": 1905343500,
+  "duration": 5752982800,
   "status": "passed"
 });
 formatter.match({
@@ -255,7 +255,7 @@ formatter.match({
   "location": "Step_Definition_Automation.user_Enters_The_Username(String)"
 });
 formatter.result({
-  "duration": 105912900,
+  "duration": 133559200,
   "status": "passed"
 });
 formatter.match({
@@ -268,14 +268,14 @@ formatter.match({
   "location": "Step_Definition_Automation.user_Enters_The_Password(String)"
 });
 formatter.result({
-  "duration": 102594300,
+  "duration": 119087700,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Login_Button_And_Then_It_Navigates_To_Dresses_Section_Page()"
 });
 formatter.result({
-  "duration": 1198319900,
+  "duration": 3129619800,
   "status": "passed"
 });
 formatter.scenario({
@@ -327,14 +327,14 @@ formatter.match({
   "location": "Step_Definition_Automation.user_Launches_Application_Using_URL()"
 });
 formatter.result({
-  "duration": 1426174000,
+  "duration": 1720081500,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Sign_In_Button_In_Home_Page()"
 });
 formatter.result({
-  "duration": 2485947400,
+  "duration": 5300630900,
   "status": "passed"
 });
 formatter.match({
@@ -347,7 +347,7 @@ formatter.match({
   "location": "Step_Definition_Automation.user_Enters_The_Username(String)"
 });
 formatter.result({
-  "duration": 97569900,
+  "duration": 118134900,
   "status": "passed"
 });
 formatter.match({
@@ -360,14 +360,14 @@ formatter.match({
   "location": "Step_Definition_Automation.user_Enters_The_Password(String)"
 });
 formatter.result({
-  "duration": 86642900,
+  "duration": 90366600,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Login_Button_And_Then_It_Navigates_To_Dresses_Section_Page()"
 });
 formatter.result({
-  "duration": 1225878700,
+  "duration": 3548287500,
   "status": "passed"
 });
 formatter.scenario({
@@ -419,14 +419,14 @@ formatter.match({
   "location": "Step_Definition_Automation.user_Launches_Application_Using_URL()"
 });
 formatter.result({
-  "duration": 1537924200,
+  "duration": 3063559600,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Sign_In_Button_In_Home_Page()"
 });
 formatter.result({
-  "duration": 1745505200,
+  "duration": 3190553500,
   "status": "passed"
 });
 formatter.match({
@@ -439,7 +439,7 @@ formatter.match({
   "location": "Step_Definition_Automation.user_Enters_The_Username(String)"
 });
 formatter.result({
-  "duration": 106359900,
+  "duration": 128138000,
   "status": "passed"
 });
 formatter.match({
@@ -452,14 +452,14 @@ formatter.match({
   "location": "Step_Definition_Automation.user_Enters_The_Password(String)"
 });
 formatter.result({
-  "duration": 95837000,
+  "duration": 116334800,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Login_Button_And_Then_It_Navigates_To_Dresses_Section_Page()"
 });
 formatter.result({
-  "duration": 1775139000,
+  "duration": 5221166600,
   "status": "passed"
 });
 formatter.scenario({
@@ -550,28 +550,28 @@ formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Dresses()"
 });
 formatter.result({
-  "duration": 2888308200,
+  "duration": 6116931100,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Evening_Dresses()"
 });
 formatter.result({
-  "duration": 1828516600,
+  "duration": 3075723900,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Printed_Dresses()"
 });
 formatter.result({
-  "duration": 2225204400,
+  "duration": 4633417300,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Select_The_Quantity()"
 });
 formatter.result({
-  "duration": 845568700,
+  "duration": 860502200,
   "status": "passed"
 });
 formatter.match({
@@ -584,70 +584,70 @@ formatter.match({
   "location": "Step_Definition_Automation.user_Select_The_As_Size(String)"
 });
 formatter.result({
-  "duration": 101184600,
+  "duration": 99736400,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Select_The_Color()"
 });
 formatter.result({
-  "duration": 114488900,
+  "duration": 107836800,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Addtocart_Button()"
 });
 formatter.result({
-  "duration": 2124910900,
+  "duration": 2129344100,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Proceed_to_Checkout_Button()"
 });
 formatter.result({
-  "duration": 2114886900,
+  "duration": 5261392000,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Verifies_The_Quantity_And_Click_Proceed_To_Checkout_Button()"
 });
 formatter.result({
-  "duration": 1600349300,
+  "duration": 5742001000,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Verifies_The_Address_and_Click_Proceed_To_Checkout_Button()"
 });
 formatter.result({
-  "duration": 1299366200,
+  "duration": 3928729200,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Accepts_The_Terms_And_Conditions()"
 });
 formatter.result({
-  "duration": 107966900,
+  "duration": 115274900,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_Proceed_To_Checkout_Button()"
 });
 formatter.result({
-  "duration": 1469454900,
+  "duration": 3266813200,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_Paybybank_Wire_Button()"
 });
 formatter.result({
-  "duration": 1061007400,
+  "duration": 4024037200,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_Confirm_Order_Button_and_Navigates_To_Order_Confirmation_Page()"
 });
 formatter.result({
-  "duration": 9502104900,
+  "duration": 18834782900,
   "status": "passed"
 });
 formatter.scenario({
@@ -738,28 +738,28 @@ formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Logo()"
 });
 formatter.result({
-  "duration": 2421871400,
+  "duration": 8582332700,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Tshirts()"
 });
 formatter.result({
-  "duration": 2538644200,
+  "duration": 3916304100,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Tshirtstype()"
 });
 formatter.result({
-  "duration": 2253650800,
+  "duration": 2261302000,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Select_The_Quantity_tshirt()"
 });
 formatter.result({
-  "duration": 708199900,
+  "duration": 806930900,
   "status": "passed"
 });
 formatter.match({
@@ -772,70 +772,66 @@ formatter.match({
   "location": "Step_Definition_Automation.user_Select_The_As_Size_tshirt(String)"
 });
 formatter.result({
-  "duration": 96655200,
+  "duration": 98770000,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Select_The_Color_tshirt()"
 });
 formatter.result({
-  "duration": 127566600,
+  "duration": 128738400,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Addtocart_Button_tshirt()"
 });
 formatter.result({
-  "duration": 2137765300,
+  "duration": 2132759000,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Proceed_to_Checkout_Button_tshirt()"
 });
 formatter.result({
-  "duration": 1603474100,
+  "duration": 2004448800,
   "status": "passed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Verifies_The_Quantity_And_Click_Proceed_To_Checkout_Button_tshirt()"
 });
 formatter.result({
-  "duration": 1662967700,
-  "status": "passed"
+  "duration": 88286800,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"(//a[@title\u003d\u0027Proceed to checkout\u0027])[2]\"}\n  (Session info: chrome\u003d96.0.4664.110)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-BO01BC7\u0027, ip: \u0027192.168.0.102\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_291\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 95.0.4638.17 (a9d0719444d4b..., userDataDir: C:\\Users\\gnani\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50783}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c358bb70c6251ca4ebe242026ff14d9d\n*** Element info: {Using\u003dxpath, value\u003d(//a[@title\u003d\u0027Proceed to checkout\u0027])[2]}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat com.sun.proxy.$Proxy17.click(Unknown Source)\r\n\tat com.base.Base_Class.click(Base_Class.java:55)\r\n\tat com.stepdefinition.automation.Step_Definition_Automation.user_Verifies_The_Quantity_And_Click_Proceed_To_Checkout_Button_tshirt(Step_Definition_Automation.java:199)\r\n\tat ✽.And user Verifies The Quantity And Click Proceed To Checkout Button_tshirt(src/test/java/com/feature/auto/automation.feature:45)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Verifies_The_Address_And_Click_Proceed_To_Checkout_Button_tshirt()"
 });
 formatter.result({
-  "duration": 1202609100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Accepts_The_Terms_and_Conditions_tshirt()"
 });
 formatter.result({
-  "duration": 98263000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Proceed_To_Checkout_Button_tshirts()"
 });
 formatter.result({
-  "duration": 1441631700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Paybybank_Wire_Button_tshirt()"
 });
 formatter.result({
-  "duration": 1822457900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Step_Definition_Automation.user_Clicks_The_Confirm_Order_Button_tshirt()"
 });
 formatter.result({
-  "duration": 3237917500,
-  "status": "passed"
+  "status": "skipped"
 });
 });

@@ -19,8 +19,8 @@ When user Select the "Brisbane" As Location
 And user Select "Hotel Creek" As Hotel
 And user Select "Deluxe" As Room Type
 And user Select "2 - Two" Aas Number Of Rooms
-And user Select "29/10/2021" As Check In Date
-And user Select "02/11/2021" As Check Out Date
+And user Select "29/12/2021" As Check In Date
+And user Select "02/01/2022" As Check Out Date
 And user Select "3 - Three" As Adult Per Room
 And user Select "2-Two" Child Per Room
 Then user Click On Search And It Navigates To Select Hotel Page
@@ -50,5 +50,6 @@ Then user Clicks The My Itenerary Button And It Navigates To Booked History Page
 Scenario: Logout
 Then user Clicks The Logout Button and It Navigates To Login Again Page
 
+@adact7
 Scenario: Login Again
 Then user Clicks The Login Again Button and It Navigates To The Home Page

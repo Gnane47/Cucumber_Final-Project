@@ -14,7 +14,7 @@ import gherkin.formatter.model.Scenario;
 @CucumberOptions(features = "src\\test\\java\\com\\feature\\auto\\automation.feature",
 				 glue = "com.stepdefinition.automation",
 				 monochrome = true, dryRun = false, strict = true,
-				 tags= ("@automate1, @automate2, @automate3"),
+				 tags= ("@automate1, @automate2, @automate3, @automate"),
 				 
 				 plugin = {"html:Report/automation",
 						   "pretty",
